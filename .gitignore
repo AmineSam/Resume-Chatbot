@@ -53,7 +53,6 @@ Thumbs.db
 # Logs
 *.log
 .streamlit/secrets.toml.example
-test_bot.py
 DEPLOYMENT_GUIDE.md
 SECURITY_IMPLEMENTATION.md
 TECHNICAL_DOCUMENTATION.md
