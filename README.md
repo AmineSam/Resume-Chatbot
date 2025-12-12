@@ -224,7 +224,7 @@ MIT License - feel free to use this for your own resume chatbot!
 
 ## 🤝 Contributing
 
-This is a personal project, but suggestions are welcome via issues.
+This is a personal project in collboration with [Anna](https://github.com/Lalovan), suggestions are welcome via issues.
 
 ---
 
