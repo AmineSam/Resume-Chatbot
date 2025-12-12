@@ -1,0 +1,60 @@
+# Environment variables
+.env
+
+# Sensitive data files
+info.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# FAISS index (if saved)
+*.faiss
+*.pkl
+
+# Logs
+*.log
+.streamlit/secrets.toml.example
+test_bot.py
+DEPLOYMENT_GUIDE.md
+SECURITY_IMPLEMENTATION.md
+TECHNICAL_DOCUMENTATION.md
+format.ipynb
