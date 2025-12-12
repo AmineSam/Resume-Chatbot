@@ -240,7 +240,7 @@ def main():
                 "role": "assistant", 
                 "content": "👋 Hello! I'm Amine's AI Resume Assistant. I can help you learn about his:\n\n"
                            "• 🎓 Educational background\n"
-                           "• 💼 Professional experienc\n"
+                           "• 💼 Professional experience\n"
                            "• 🛠️ Technical skills and certifications\n\n"
                            "What would you like to know?"
             }
